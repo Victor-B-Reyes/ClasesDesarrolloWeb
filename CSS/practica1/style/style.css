@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+main{
+    padding: 10px;
+    background-color: beige;
+    
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+footer p:hover{
+    background-color: red;
+}
