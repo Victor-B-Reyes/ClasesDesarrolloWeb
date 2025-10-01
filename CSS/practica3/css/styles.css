@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #accf9c;
+}
+
+header{
+    background-color: #4CAF50;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #020202;
+    padding: 8px;
+    text-align: left;
+}
+td{
+    width: 25%;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.img{
+    text-align: center;
+}
+
+.nombre {
+    text-align: center;
+    font-weight: bold;
+    background-color: #1b3fcd;
+}
