@@ -70,7 +70,8 @@ body {
 .footer {
   text-align: center;
   padding: 1rem;
-  background-color: #f1f1f1;
+  color: #fff ;
+  background-color: #000000;
   margin-top: 2rem;
 }
 
