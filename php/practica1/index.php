@@ -8,7 +8,13 @@
 <body>
     <h1>Hola Mundo desde PHP</h1>
     <?php
+        //mensaje inicial
         echo "<p>Este es un párrafo generado con PHP.</p>";
+
+        //Variables
+        $nombre = "Victor";
+        $edad = 24;
+        echo "<p>Mi nombre es $nombre y tengo $edad años.</p>";
     ?>
 </body>
 </html>
